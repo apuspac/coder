@@ -2,7 +2,7 @@
 name = "atcoder"
 version = "0.1.0"
 description = ""
-authors = ["apuspac <penginstar1299@gmail.com>"]
+authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
