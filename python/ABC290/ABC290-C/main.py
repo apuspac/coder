@@ -9,5 +9,10 @@ print(n, k)
 print(list_c)
 
 for v in itertools.permutations(list_c, k):
-    if v
-    print(v)
+    pass
+
+
+
+
+
+
