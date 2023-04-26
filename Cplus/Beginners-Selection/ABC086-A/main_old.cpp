@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <iostream>
 
 int main()
 {
@@ -13,8 +13,6 @@ int main()
     {
         std::cout << "Odd" << std::endl;
     }
-
-    return 0;
 }
 
 /**
